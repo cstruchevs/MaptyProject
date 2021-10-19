@@ -1,2 +1,2 @@
 # MaptyProject
-Check in Google
+Trial map project with help of Leaflet library. Check in Google.
